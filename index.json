@@ -1,0 +1,391 @@
+[{
+        "name": "Bhojpur District",
+        "province": "Province One",
+        "code": "Bhojpur"
+    },
+    {
+        "name": "Dhankuta District",
+        "province": "Province One",
+        "code": "Dhankuta"
+    },
+    {
+        "name": "Ilam District",
+        "province": "Province One",
+        "code": "Ilam"
+    },
+    {
+        "name": "Jhapa District",
+        "province": "Province One",
+        "code": "Jhapa"
+    },
+    {
+        "name": "Khotang District",
+        "province": "Province One",
+        "code": "Khotang"
+    },
+    {
+        "name": "Morang District",
+        "province": "Province One",
+        "code": "Morang"
+    },
+    {
+        "name": "Okhaldhunga District",
+        "province": "Province One",
+        "code": "Okhaldhunga"
+    },
+    {
+        "name": "Panchthar District",
+        "province": "Province One",
+        "code": "Panchthar"
+    },
+    {
+        "name": "Sanjhuwasabha District",
+        "province": "Province One",
+        "code": "Sanjhuwasabha"
+    },
+    {
+        "name": "Solukhumbu District",
+        "province": "Province One",
+        "code": "Solukhumbu"
+    },
+    {
+        "name": "Sunsari District",
+        "province": "Province One",
+        "code": "Sunsari"
+    },
+    {
+        "name": "Taplejung District",
+        "province": "Province One",
+        "code": "Taplejung"
+    },
+    {
+        "name": "Terathum District",
+        "province": "Province One",
+        "code": "Terathum"
+    },
+    {
+        "name": "Udayapur District",
+        "province": "Province One",
+        "code": "Udayapur"
+    },
+    {
+        "name": "Parsa District",
+        "province": "Province Two",
+        "code": "Parsa"
+    },
+    {
+        "name": "Bara District",
+        "province": "Province Two",
+        "code": "Bara"
+    },
+    {
+        "name": "Rautahat District",
+        "province": "Province Two",
+        "code": "Rautahat"
+    },
+    {
+        "name": "Sarlahi District",
+        "province": "Province Two",
+        "code": "Sarlahi"
+    },
+    {
+        "name": "Dhanusa District",
+        "province": "Province Two",
+        "code": "Dhanusa"
+    },
+    {
+        "name": "Siraha District",
+        "province": "Province Two",
+        "code": "Siraha"
+    },
+    {
+        "name": "Mohattari District",
+        "province": "Province Two",
+        "code": "Mohattari"
+    },
+    {
+        "name": "Saptari District",
+        "province": "Province Two",
+        "code": "Saptari"
+    },
+
+    {
+        "name": "Sindhuli District",
+        "province": "Bagmati Province",
+        "code": "Sindhuli"
+    },
+    {
+        "name": "Ramechhap District",
+        "province": "Bagmati Province",
+        "code": "Ramechhap"
+    },
+    {
+        "name": "Dolakha District",
+        "province": "Bagmati Province",
+        "code": "Dolakha"
+    },
+    {
+        "name": "Bhaktapur District",
+        "province": "Bagmati Province",
+        "code": "Bhaktapur"
+    },
+    {
+        "name": "Dhading District",
+        "province": "Bagmati Province",
+        "code": "Dhading"
+    },
+    {
+        "name": "Kathmandu District",
+        "province": "Bagmati Province",
+        "code": "Kathmandu"
+    },
+    {
+        "name": "Kavrepalanchowk District",
+        "province": "Bagmati Province",
+        "code": "Kavrepalanchowk"
+    },
+    {
+        "name": "Lalitpur District",
+        "province": "Bagmati Province",
+        "code": "Lalitpur"
+    },
+    {
+        "name": "Nuwakot District",
+        "province": "Bagmati Province",
+        "code": "Nuwakot"
+    },
+    {
+        "name": "Rasuwa District",
+        "province": "Bagmati Province",
+        "code": "Rasuwa"
+    },
+    {
+        "name": "Sindhupalchowk District",
+        "province": "Bagmati Province",
+        "code": "Sindhupalchowk"
+    },
+    {
+        "name": "Chitwan District",
+        "province": "Bagmati Province",
+        "code": "Chitwan"
+    },
+    {
+        "name": "Makwanpur District",
+        "province": "Bagmati Province",
+        "code": "Makwanpur"
+    },
+
+    {
+        "name": "Baglung District",
+        "province": "Gandaki Province",
+        "code": "Baglung"
+    },
+    {
+        "name": "Gorkha District",
+        "province": "Gandaki Province",
+        "code": "Gorkha"
+    },
+    {
+        "name": "Kaski District",
+        "province": "Gandaki Province",
+        "code": "Kaski"
+    },
+    {
+        "name": "Lamjung District",
+        "province": "Gandaki Province",
+        "code": "Lamjung"
+    },
+    {
+        "name": "Manang District",
+        "province": "Gandaki Province",
+        "code": "Manang"
+    },
+    {
+        "name": "Mustang District",
+        "province": "Gandaki Province",
+        "code": "Mustang"
+    },
+    {
+        "name": "Myagdi District",
+        "province": "Gandaki Province",
+        "code": "Myagdi"
+    },
+    {
+        "name": "Nawalpur District",
+        "province": "Gandaki Province",
+        "code": "Nawalpur"
+    },
+    {
+        "name": "Parbat District",
+        "province": "Gandaki Province",
+        "code": "Parbat"
+    },
+    {
+        "name": "Syangja District",
+        "province": "Gandaki Province",
+        "code": "Syangja"
+    },
+    {
+        "name": "Tanahun District",
+        "province": "Gandaki Province",
+        "code": "Tanahun"
+    },
+
+    {
+        "name": "Kapilvastu District",
+        "province": "Province Five",
+        "code": "Kapilvastu"
+    },
+    {
+        "name": "Parasi District",
+        "province": "Province Five",
+        "code": "Parasi"
+    },
+    {
+        "name": "Rupandehi District",
+        "province": "Province Five",
+        "code": "Rupandehi"
+    },
+    {
+        "name": "Arghakhanchi District",
+        "province": "Province Five",
+        "code": "Arghakhanchi"
+    },
+    {
+        "name": "Gulmi District",
+        "province": "Province Five",
+        "code": "Gulmi"
+    },
+    {
+        "name": "Palpa District",
+        "province": "Province Five",
+        "code": "Palpa"
+    },
+    {
+        "name": "Dang Deukhuri District",
+        "province": "Province Five",
+        "code": "Deukhuri"
+    },
+    {
+        "name": "Pyuthan District",
+        "province": "Province Five",
+        "code": "Pyuthan"
+    },
+    {
+        "name": "Rolpa District",
+        "province": "Province Five",
+        "code": "Rolpa"
+    },
+    {
+        "name": "Eastern Rukum District",
+        "province": "Province Five",
+        "code": "E.Rukum"
+    },
+    {
+        "name": "Banke District",
+        "province": "Province Five",
+        "code": "Banke"
+    },
+    {
+        "name": "Bardiya District",
+        "province": "Province Five",
+        "code": "Bardiya"
+    },
+
+    {
+        "name": "Western Rukum District",
+        "province": "Karnali Province",
+        "code": "W.Rukum"
+    },
+    {
+        "name": "Salyan District",
+        "province": "Karnali Province",
+        "code": "Salyan"
+    },
+    {
+        "name": "Dolpa District",
+        "province": "Karnali Province",
+        "code": "Dolpa"
+    },
+    {
+        "name": "Humla District",
+        "province": "Karnali Province",
+        "code": "Humla"
+    },
+    {
+        "name": "Jumla District",
+        "province": "Karnali Province",
+        "code": "Jumla"
+    },
+    {
+        "name": "Kalikot District",
+        "province": "Karnali Province",
+        "code": "Kalikot"
+    },
+    {
+        "name": "Mugu District",
+        "province": "Karnali Province",
+        "code": "Mugu"
+    },
+    {
+        "name": "Surkhet District",
+        "province": "Karnali Province",
+        "code": "Surkhet"
+    },
+    {
+        "name": "Dailekh District",
+        "province": "Karnali Province",
+        "code": "Dailekh"
+    },
+    {
+        "name": "Jajarkot District",
+        "province": "Karnali Province",
+        "code": "Jajarkot"
+    },
+
+    {
+        "name": "Kailali District",
+        "province": "Sudurpaschim Province",
+        "code": "Kailali"
+    },
+    {
+        "name": "Achham District",
+        "province": "Sudurpaschim Province",
+        "code": "Achham"
+    },
+    {
+        "name": "Doti District",
+        "province": "Sudurpaschim Province",
+        "code": "Doti"
+    },
+    {
+        "name": "Bajhang District",
+        "province": "Sudurpaschim Province",
+        "code": "Bajhang"
+    },
+    {
+        "name": "Bajura District",
+        "province": "Sudurpaschim Province",
+        "code": "Bajura"
+    },
+    {
+        "name": "Kanchanpur District",
+        "province": "Sudurpaschim Province",
+        "code": "Kanchanpur"
+    },
+    {
+        "name": "Dadheldhura District",
+        "province": "Sudurpaschim Province",
+        "code": "Dadheldhura"
+    },
+    {
+        "name": "Baitadi District",
+        "province": "Sudurpaschim Province",
+        "code": "Baitadi"
+    },
+    {
+        "name": "Darchula District",
+        "province": "Sudurpaschim Province",
+        "code": "Darchula"
+    }
+]
